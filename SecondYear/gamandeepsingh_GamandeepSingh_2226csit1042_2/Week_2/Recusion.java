@@ -13,6 +13,7 @@ public class Solution {
         int i=x;
         a[i-1]=x;
         return recur(x-1,a);
+        
     }
 
 }

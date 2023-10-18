@@ -11,5 +11,6 @@ public class Solution {
             return "NO";
 		}
 		return "YES";
+		
 	}
 }

@@ -13,6 +13,7 @@ public class Solution {
             result.add(current);
             return;
         }
+        
         if (left > 0) {
             generateParenthesis(left - 1, right, current + "(", result);
         }

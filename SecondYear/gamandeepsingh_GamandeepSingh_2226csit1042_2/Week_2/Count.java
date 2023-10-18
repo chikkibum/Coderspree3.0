@@ -1,5 +1,6 @@
 public class Solution {
     public static int countDigits(int n){
+        
         int c=0;
         int m=n;
         while(n!=0){
